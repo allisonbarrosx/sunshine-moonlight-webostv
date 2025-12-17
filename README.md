@@ -108,7 +108,7 @@ For the best experience, you can fine-tune the streaming quality in the Sunshine
 
 1.  In the Sunshine web interface, go to the **Settings** section.
 2.  **Resolution and Frame Rate**: A common high-quality setting is **`1440p60`** (1440p resolution at 60 frames per second), but you can adjust this based on your TV's capabilities and network bandwidth.
-3.  **Video Bitrate**: Experiment with the video bitrate to find the sweet spot between image quality and network latency. Higher bitrates mean better quality but require a more stable network connection.
+3.  **Video Bitrate**: Experiment with the video bitrate to find the sweet spot between image quality and network latency. Higher bitrates mean better quality but require a more stable network connection. Mine is default to 40000 kpbs (will try increase this later)
 
 Once connected, simply select a game from the Moonlight interface on your TV, and Sunshine will launch it on your PC and begin streaming!
 
