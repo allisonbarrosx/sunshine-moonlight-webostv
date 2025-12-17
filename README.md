@@ -114,4 +114,4 @@ Once connected, simply select a game from the Moonlight interface on your TV, an
 
 ---
 
-*Guide created by Manus AI based on content provided by Bx (v20251217.1).*
+*Guide created by Bx (v20251217.1).*
